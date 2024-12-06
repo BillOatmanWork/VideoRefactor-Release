@@ -7,7 +7,7 @@ tracks or not. In addition, it allows you to specify how many seconds to take of
 the video (for example, if you have your system configured to start recording a few minutes early
 and run a few minutes after the desired show to ensure getting the entire program).
 
-![Video Refactor Screenshot](screenshot.jpg)
+![Video Refactor Screenshot](Screenshot.jpg)
 
 First, setup the path to your Ưmpeg executable. This is the tool that VideoRefactor uses to make the
 magic happen. If you do not have it, you can get it for free at Download FFmpeg. Press the DSelect
