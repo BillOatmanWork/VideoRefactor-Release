@@ -3,7 +3,7 @@
 VideoRefactor is a Windows winform application that allows you to easily make common changes
 to video files such as changing video and audio codecs, the resolution (1080p to 720p for example),
 remove the Default tag on audio and subtitle tracks, and whether to keep any existing subtitle
-tracks or not. In addition, it allows you to specify how many seconds to take oƯ the start and end of
+tracks or not. In addition, it allows you to specify how many seconds to take off the start and end of
 the video (for example, if you have your system configured to start recording a few minutes early
 and run a few minutes after the desired show to ensure getting the entire program).
 
