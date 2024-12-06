@@ -10,7 +10,7 @@ and run a few minutes after the desired show to ensure getting the entire progra
 First, setup the path to your Ưmpeg executable. This is the tool that VideoRefactor uses to make the
 magic happen. If you do not have it, you can get it for free at Download FFmpeg. Press the DSelect
 Directory button and selec the directory that has the Ưmpeg.exe executable. Typically something
-like C:\Ưmpeg\bin. This will be remembered by the app in the future, so you only need to do this
+like C:\ffmpeg\bin. This will be remembered by the app in the future, so you only need to do this
 setup one time.
 
 Next select your video file by pressing the Select File button. After a few seconds the video length
