@@ -10,7 +10,7 @@ and run a few minutes after the desired show to ensure getting the entire progra
 ![Video Refactor Screenshot](Screenshot.jpg)
 
 First, setup the path to your Ưmpeg executable. This is the tool that VideoRefactor uses to make the
-magic happen. If you do not have it, you can get it for free at Download FFmpeg. Press the DSelect
+magic happen. If you do not have it, you can get it for free at [Download FFmpeg](https://ffmpeg.org/download.html). Press the Select
 Directory button and selec the directory that has the Ưmpeg.exe executable. Typically something
 like C:\ffmpeg\bin. This will be remembered by the app in the future, so you only need to do this
 setup one time.
